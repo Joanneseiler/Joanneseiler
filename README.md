@@ -17,6 +17,7 @@ I'm Joanne, a passionate Web Developer. 🙂
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Handlebars.js-informational?style=flat&logo=Handlebars.js&logoColor=ColorName&color=black)
 
 ### Styling
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
@@ -40,3 +41,5 @@ I'm Joanne, a passionate Web Developer. 🙂
 <img alt='CodeWars' src='https://www.codewars.com/users/Joanne22/badges/micro' />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanneseiler&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Joanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanneseiler&theme=vision-friendly-dark&show_icons=true?count_private=true)
