@@ -49,6 +49,8 @@ I love to develop useful things with a good eye for design and attention to a go
 ## 💻 Activities
 
 <img alt='CodeWars' src='https://www.codewars.com/users/Joanne22/badges/micro' />
+<br>
+<br>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanneseiler&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
