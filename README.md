@@ -1,4 +1,8 @@
-## Hi there 🤩 I'm Joanne
+<div align="center">
+<h1>Hi there 🤩</h1>
+<div>
+  
+### I'm Joanne 🙋🏻‍♀️
 
 I love to develop useful things with a good eye for design and attention to a good user experience. 🤝
 
@@ -41,6 +45,8 @@ I love to develop useful things with a good eye for design and attention to a go
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Chakra%20UI-informational?style=flat&logo=chakraui&logoColor=ColorName&color=black)
 <hr>
+  
+## 💻 Activities
 
 <img alt='CodeWars' src='https://www.codewars.com/users/Joanne22/badges/micro' />
 
