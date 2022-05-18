@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 🤩 I'm Joanne
 
-I'm Joanne, a passionate Web Developer. 🙂
+I love to develop useful things with a good eye for design and attention to a good user experience. 🤝
 
 <!--![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=Joanneseiler.Joanneseiler)-->
 
@@ -30,9 +30,10 @@ I'm Joanne, a passionate Web Developer. 🙂
 
 ### Other
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=black)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
+
 
 
 ## 🌱 I’m currently learning …
