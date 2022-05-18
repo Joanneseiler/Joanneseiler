@@ -1,6 +1,7 @@
 <div align="center">
-<h1>Hi there 🤩</h1>
-<div>
+  
+## Hi there 🤩
+
   
 ### I'm Joanne 🙋🏻‍♀️
 
@@ -55,3 +56,4 @@ I love to develop useful things with a good eye for design and attention to a go
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanneseiler&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Joanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanneseiler&theme=vision-friendly-dark&show_icons=true?count_private=true)
+</div>
